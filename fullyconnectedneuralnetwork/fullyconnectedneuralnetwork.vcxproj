@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A989DEA7-F2F2-4E84-95B9-A0BF05E1E75E}</ProjectGuid>
-    <RootNamespace>forward_feed_example</RootNamespace>
+    <ProjectGuid>{1E2497BE-D20E-4DB2-9FD4-28E1AF476F9A}</ProjectGuid>
+    <RootNamespace>fullyconnectedneuralnetwork</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -114,6 +114,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MatrixMN.cpp" />
+    <ClCompile Include="NeuralNetwork.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Array1D.h" />
+    <ClInclude Include="MatrixMN.h" />
+    <ClInclude Include="NeuralNetwork.h" />
+    <ClInclude Include="VectorND.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

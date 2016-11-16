@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A989DEA7-F2F2-4E84-95B9-A0BF05E1E75E}</ProjectGuid>
-    <RootNamespace>forward_feed_example</RootNamespace>
+    <ProjectGuid>{D35F35C7-3DB0-4C6D-984E-B81F847D4E5E}</ProjectGuid>
+    <RootNamespace>backpropagation</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

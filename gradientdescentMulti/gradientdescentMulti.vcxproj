@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A989DEA7-F2F2-4E84-95B9-A0BF05E1E75E}</ProjectGuid>
-    <RootNamespace>forward_feed_example</RootNamespace>
+    <ProjectGuid>{5D852679-83F4-476D-9901-2AFD5CB50F99}</ProjectGuid>
+    <RootNamespace>gradientdescentMulti</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

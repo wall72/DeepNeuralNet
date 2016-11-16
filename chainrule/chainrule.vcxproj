@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A989DEA7-F2F2-4E84-95B9-A0BF05E1E75E}</ProjectGuid>
-    <RootNamespace>forward_feed_example</RootNamespace>
+    <ProjectGuid>{F7B96097-64F7-4530-BD16-426217F288EB}</ProjectGuid>
+    <RootNamespace>chainrule</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
